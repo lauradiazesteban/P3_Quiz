@@ -1,6 +1,5 @@
 
 const readline = require('readline');
-const model = require('./model');
 const {log, bigLog, errorLog, colorize} = require("./out");
 const comandos = require ("./comandos");
 
